@@ -1,3 +1,9 @@
 {
-  "alunos": []
+  "alunos": [
+    {
+      "nome": "Michael",
+      "sobrenome": "",
+      "id": 1
+    }
+  ]
 }
